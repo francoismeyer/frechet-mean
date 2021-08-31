@@ -1,11 +1,11 @@
 ### This software implements the algorithm described in "The Frechet Mean of Inhomogeneous Random Graphs"
 
-You should be able to reproduce Fig. 1, and Fig. 2. 
-<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean-inhomogeneous.pdf">Download Paper</a>
+You should be able to reproduce Fig. 1, and Fig. 2. in the 
+<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean-inhomogeneous.pdf"> paper</a> \
 
 #### HOW TO USE THE SOFTWARE
 
-In MATLAB, type 
+In MATLAB, type\
 ```
 >> concentration-frechet
 ```
@@ -17,7 +17,7 @@ The script will create Fig 2-right.
 
 Please forward any bug, or comment to fmeyer@colorado.edu
 
-Contact:
-Francois Meyer
-E-mail: fmeyer@colorado.edu
+Contact:\
+Francois Meyer\
+E-mail: fmeyer@colorado.edu\
 https://francoismeyer.github.io/
