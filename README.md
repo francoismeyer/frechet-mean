@@ -6,7 +6,7 @@ You should be able to reproduce Fig. 1, and Fig. 2. in the
 
 HOW TO USE THE SOFTWARE
 
-In MATLAB, type\
+In MATLAB, type
 ```
 >> concentration-frechet
 ```
