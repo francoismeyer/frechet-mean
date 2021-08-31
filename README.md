@@ -6,18 +6,18 @@
 ### HOW TO USE THE SOFTWARE
 
 #### In MATLAB, type 
-
+```
 >> concentration-frechet
-
+```
 The script will create Fig 1-left, Fig 1-right, and Fig 2-left.
-
+```
 >> sharp-threshold
-
+```
 The script will create Fig 2-right.
 
 Please forward any bug, or comment to fmeyer@colorado.edu
 
-# Contact:
+Contact:
 Francois Meyer
-E-mail: (fmeyer@colorado.edu)
-(https://francoismeyer.github.io/)
+E-mail: fmeyer@colorado.edu
+https://francoismeyer.github.io/
