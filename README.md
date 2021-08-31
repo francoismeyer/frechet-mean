@@ -1,9 +1,10 @@
-### This software implements the algorithm described in "The Frechet Mean of Inhomogeneous Random Graphs"
+#### This software implements the algorithm described in 
+<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean-inhomogeneous.pdf"> "The Frechet Mean of Inhomogeneous Random Graphs"</a> 
 
 You should be able to reproduce Fig. 1, and Fig. 2. in the 
-<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean-inhomogeneous.pdf"> paper</a> \
+<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean-inhomogeneous.pdf"> paper</a> 
 
-#### HOW TO USE THE SOFTWARE
+HOW TO USE THE SOFTWARE
 
 In MATLAB, type\
 ```
