@@ -10,11 +10,11 @@ Download the <a href="https://github.com/francoismeyer/frechet-mean/blob/main/fr
 
 In MATLAB, type
 ```
->> concentration-frechet
+>> concentrationfrechet
 ```
 The script will create Fig 1-left, Fig 1-right, and Fig 2-left.
 ```
->> sharp-threshold
+>> sharpthreshold
 ```
 The script will create Fig 2-right.
 
