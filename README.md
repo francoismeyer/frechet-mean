@@ -6,6 +6,10 @@ You should be able to reproduce Fig. 1, and Fig. 2. in the
 
 HOW TO USE THE SOFTWARE
 
+Download the 
+
+<a href="https://github.com/francoismeyer/frechet-mean/blob/main/frechet-mean.zip"> "archive" </a>
+
 In MATLAB, type
 ```
 >> concentration-frechet
